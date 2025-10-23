@@ -41,9 +41,9 @@ function Header() {
 function HomePage() {
   const apps = [
     {
-      name: 'Currency Converter',
+      name: 'Assistive Touch',
       image: currency,
-      link: 'https://play.google.com/store/apps/details?id=com.exchangerates.currencyconverter.liverates.travelcurrency'
+      link: 'https://play.google.com/store/apps/details?id=com.easytouch.quickcontrol.assistivetouch.floatingbutton'
     }
   ];
 
